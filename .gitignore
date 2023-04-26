@@ -1,0 +1,6 @@
+.idea/
+.terraform.lock.hcl
+.terraform
+tfplan.binary
+.infracost/
+terraform.tfstate
